@@ -1,0 +1,21 @@
+
+
+
+#div3>img{
+	width: 100%;
+}
+
+#div3>div{
+	display: flex;
+	height: 210px;
+	background: url(../img/mst_ab693f80c37ef10b2ad70212c9e5984c.jpg);
+	background-size:100%;
+	align-items: center;
+	justify-content: space-around;
+}
+
+#div3>div>img{
+	width: 22%;
+	margin-top: 70px;
+	margin-left: 3%;
+}
